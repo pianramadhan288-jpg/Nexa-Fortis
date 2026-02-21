@@ -196,7 +196,7 @@ export default function App() {
                <div className="w-8 h-8 bg-black dark:bg-white rounded-full flex items-center justify-center mr-3 shadow-[0_0_15px_rgba(0,0,0,0.1)] dark:shadow-[0_0_15px_rgba(255,255,255,0.3)]">
                   <Zap size={16} className="text-white dark:text-black fill-current" />
                </div>
-               <span className="text-xl font-bold text-slate-900 dark:text-white tracking-tight">Gracias Exam</span>
+               <span className="text-xl font-bold text-slate-900 dark:text-white tracking-tight">Nexa Fortis</span>
            </div>
            <button onClick={() => setSidebarOpen(false)} className="md:hidden text-slate-500 hover:text-slate-900 dark:hover:text-white">
                <X size={24} />
